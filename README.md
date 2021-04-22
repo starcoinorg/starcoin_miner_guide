@@ -2,15 +2,6 @@
 description: Some description
 ---
 
-# Starcoin 矿机指南
+# Starcoin 矿机挖矿指南
 
-## Can I become who I want to be?
-
-That's a tough question but thankfully, our team is on it. Please bear with us while we're investigating.
-
-## Have you had a chance to answer the previous question?
-
-Yes, after a few months we finally found the answer. Sadly, Mike is on vacations right now so I'm afraid we are not able to provide the answer at this point.
-
-
-
+本文档介绍如何使用 Starcoin 矿机进行挖矿。
