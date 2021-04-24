@@ -15,7 +15,7 @@
       --stratum-port <stratum-port> stratum port is 9880
       --stratum-address <address> Default adress is 0.0.0.0
      ```
-   * 支持的矿池列表，将于4月26日更新。
+   * 支持测试网的矿池将于4月26日陆续开放（请留意本页面更新）。
 	 
 5. 开始挖矿：点击启动矿机，等待片刻后能够看到有算力生成证明设备已开始工作。
 6. 切换矿池：选择机器停止挖矿，设置矿池，开始挖矿。
