@@ -1,6 +1,15 @@
 # Table of contents
 
-## 迷你型矿机
-
-* [USB 驱动安装说明](mi-ni-xing-kuang-ji/usb-qu-dong-an-zhuang-shuo-ming.md)
-* [挖矿说明](mi-ni-xing-kuang-ji/wa-kuang-shuo-ming.md)
+* [Starcoin 节点运行]()
+  * [Windows 系统]()
+    * [Win10 运行 Starcoin 节点](node-start/windows/run-node-on-win10.md)
+    * [Win10 升级/迁移 Starcoin 节点](node-start/windows/upgrade-or-migration-node-on-win10.md)
+  * [Docker 方式]()
+    * [Docker 安装]()
+      * [CentOS](node-start/docker/install/centos.md)
+    * [Docker 运行 Starcoin 节点](node-start/docker/run-node-on-docker.md)
+    * [Docker 升级/迁移 Starcoin 节点](node-start/docker/upgrade-or-migration-node-on-docker.md)
+* [迷你型矿机]()
+  * [USB 驱动安装说明](mi-ni-xing-kuang-ji/usb-qu-dong-an-zhuang-shuo-ming.md)
+  * [Windows 挖矿客户端说明](mi-ni-xing-kuang-ji/wa-kuang-shuo-ming.md)
+* [Starcoin 测试网活动奖励领取-表单填写说明](other/receive-reward-form-filling-instruction.md)
