@@ -10,13 +10,23 @@
 
 5. 设置矿池：打开 Starcoin Miner 软件，点击设置矿池图标，输入矿池名，端口号，用户名，矿工密码，点击确认。
    * 若要连接到 Starcoin node 进行挖矿。默认请连接至节点的 9880 端口，具体可在 starcoin 启动参数中进行 startum 服务的设置。
-	 (注:该功能需在  starcoin master 分支或release 版本>=v1.0.0-beta.5上支持)
-     ```bash
-      --stratum-port <stratum-port> stratum port is 9880
-      --stratum-address <address> Default adress is 0.0.0.0
-     ```
-   * 支持测试网的矿池将于4月26日陆续开放（请留意本页面更新）。
-	 
+   (注:该功能需在  starcoin master 分支或release 版本>=v1.0.0-beta.5上支持)
+      ```
+       --stratum-port <stratum-port> stratum port is 9880
+       --stratum-address <address> Default adress is 0.0.0.0
+      ```
+   * 设置可乐矿池
+   
+     1. 下载安装 [bixin](https://bixin.com)
+     2. 依次点击[发现]->[可乐矿池]->[挖矿]
+     3. 点击左上方[总算力]->[创建子账户],填写**账户名**，选择地址。
+     4. 设置收款地址。**注:此处需要填写starcoin account 的 public_key,而不是 address**
+     5. 配置矿机: 设置账户名为第三步的账户名。设置矿池地址:	 
+       ```
+        cn-test.stc.kelepool.com:5555
+        cn-test.stc.kelepool.com:6666
+        cn2-test.stc.kelepool.com:9999
+       ```
 6. 开始挖矿：点击启动矿机，等待片刻后能够看到有算力生成证明设备已开始工作。
 7. 切换矿池：选择机器停止挖矿，设置矿池，开始挖矿。
 
