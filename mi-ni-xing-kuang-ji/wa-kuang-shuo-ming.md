@@ -18,18 +18,7 @@
        --stratum-address <address> Default adress is 0.0.0.0
      ```
 
-   * 设置可乐矿池
-     1. 下载安装 [bixin](https://bixin.com)。
-     2. 依次点击\[发现\]-&gt;\[可乐矿池\]-&gt;\[挖矿\]。
-     3. 点击左上方\[总算力\]-&gt;\[创建子账户\],填写**账户名**，选择地址。
-     4. 设置收款地址。**注:此处需要填写starcoin account 的 public\_key,而不是 address**
-     5. 配置矿机: 设置账户名为第三步的账户名。设置矿池地址:     
-
-        ```text
-        cn-test.stc.kelepool.com:5555
-        cn-test.stc.kelepool.com:6666
-        cn2-test.stc.kelepool.com:9999
-        ```
+   * 设置可乐矿池: \[教程\]\([https://www.yuque.com/docs/share/5c5ae94a-3ed4-4dab-98ca-62baf17891e0](https://www.yuque.com/docs/share/5c5ae94a-3ed4-4dab-98ca-62baf17891e0)\)
 6. 开始挖矿：点击启动矿机，等待片刻后能够看到有算力生成证明设备已开始工作。
 7. 切换矿池：选择机器停止挖矿，设置矿池，开始挖矿。
 
