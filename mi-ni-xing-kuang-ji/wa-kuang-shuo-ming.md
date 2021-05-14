@@ -18,7 +18,7 @@
        --stratum-address <address> Default adress is 0.0.0.0
      ```
 
-   * 设置可乐矿池: \[教程\]\([https://www.yuque.com/docs/share/5c5ae94a-3ed4-4dab-98ca-62baf17891e0](https://www.yuque.com/docs/share/5c5ae94a-3ed4-4dab-98ca-62baf17891e0)\)
+   * 设置 [可乐矿池](https://www.yuque.com/docs/share/5c5ae94a-3ed4-4dab-98ca-62baf17891e0)
 6. 开始挖矿：点击启动矿机，等待片刻后能够看到有算力生成证明设备已开始工作。
 7. 切换矿池：选择机器停止挖矿，设置矿池，开始挖矿。
 
