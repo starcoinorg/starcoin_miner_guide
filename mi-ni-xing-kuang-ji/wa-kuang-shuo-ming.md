@@ -24,6 +24,7 @@
    * 连接 [大象矿池](https://www.dxpool.com/help/zh/starcoin-mining-toturial)
    * 连接 [币印矿池](https://help.poolin.com/hc/zh-cn/articles/360060982092)
    * 连接 [鱼池矿池](https://blog.f2pool.com/zh/mining-tutorial/stc)
+   * 连接 [ViaBTC 矿池](https://support.viabtc.com/hc/zh-cn/articles/900005939326)
 6. 开始挖矿：点击启动矿机，等待片刻后能够看到有算力生成证明设备已开始工作。
 7. 切换矿池：选择机器停止挖矿，设置矿池，开始挖矿。
 
